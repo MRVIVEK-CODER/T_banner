@@ -1,7 +1,7 @@
 # T_banner
 
 ![made in india](https://img.shields.io/badge/MADE%20IN%20-INDIA-green?style=for-the-badge&logo=appveyor)
-![Prince kumar](https://img.shields.io/badge/prince%20-kumar-green?style=for-the-badge&logo=appveyor)
+![Vivek Chandel](https://img.shields.io/badge/Vivek%20-Chandel-green?style=for-the-badge&logo=appveyor)
 
 ![GitHub followers](https://img.shields.io/github/followers/MRVIVEK-CODER?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/vivek_chandel?color=%23ff128c&label=%40princekrvert&style=for-the-badge)
