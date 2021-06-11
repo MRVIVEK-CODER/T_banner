@@ -22,7 +22,7 @@ git clone https://github.com/MRVIVEK-CODER/T_banner.git;cd T_banner;chmod +x *;b
 ```
 ### Termux -- look
 
-![20210124_214804](https://user-images.githubusercontent.com/56459297/105637270-a5831700-5e92-11eb-88e3-541e277035fd.jpg)
+![20210124_214804](https://github.com/MRVIVEK-CODER/T_banner/blob/main/IMG-20210611-WA0079.jpg)
 
 ## [Youtube](https://youtube.com/c/TechnicalVivekTricker420)
 
