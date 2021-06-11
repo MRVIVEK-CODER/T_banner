@@ -4,7 +4,7 @@
 ![Vivek Chandel](https://img.shields.io/badge/Vivek%20-Chandel-green?style=for-the-badge&logo=appveyor)
 
 ![GitHub followers](https://img.shields.io/github/followers/MRVIVEK-CODER?style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/vivek_chandel?color=%23ff128c&label=%40princekrvert&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/vivek_chandel?color=%23ff128c&label=%40VivekXD&style=for-the-badge)
 ---
 ![20210125_063051](https://user-images.githubusercontent.com/56459297/105649622-f0bf1900-5ed6-11eb-84b6-e4405bfbc3e1.png)
 
