@@ -27,4 +27,4 @@ git clone https://github.com/MRVIVEK-CODER/T_banner.git;cd T_banner;chmod +x *;b
 ## [Youtube](https://youtube.com/c/TechnicalVivekTricker420)
 
 ## [Instagram](https://instagram.com/sirprincekrvert)
-### [Read blog-post]()
+### [Read blog-post](https://technicalviv3k.blogspot.com/2021/06/how-to-style-termux-promptbackgroundosl.html?m=1)
